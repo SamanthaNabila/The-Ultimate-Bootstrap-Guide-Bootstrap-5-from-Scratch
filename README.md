@@ -1,6 +1,6 @@
-Real World Education Project <br>
+<h3>Real World Education Project </h3> <br>
 https://primebynabila.netlify.app/ <br><br>
-<img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/5f2eeb0e-91fe-4bea-8750-e3f54ce3a678" />
+<img width="1906" height="913" alt="image" src="https://github.com/user-attachments/assets/5f2eeb0e-91fe-4bea-8750-e3f54ce3a678" /> <br> <br> <br>
 
 
 Blog APP with Bootstrap 5 <br>
